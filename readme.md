@@ -50,7 +50,7 @@ Elemento y Etiquetas son lo mismo
 * TIP (header y footear se puede utilizar en section y article)
 * TIP (Tener presente la jerarquía de los encabezados)
 
-## TAREA
+## TAREA 1
 1. Explicar con concepto y definición: Etiqueta, tipos de etiqueta (apertura, cierre, self closing,
 bloque e inline), atributos, encabezados.
 
@@ -87,3 +87,16 @@ bloque e inline), atributos, encabezados.
 2. Subir proyecto a github y pasar la url por interno en teams
 
 3. No olvidar crear el repo en publico
+
+## TAREA 2
+
+1. Definición y ejemplo de las nuevas etiquetas HTML5.
+
+1.1. HEADER: Elemento que representa el encabezado
+1.2. FOOTER: Elemento que representa el pie de página
+1.3. NAV: Elemento que representa una sección para proporcionar enlaces de navegación
+1.4. MAIN: Contenido principal de la página
+1.5. SECTION: Sección o división de un contenido
+1.6. ARTICLE: Contenido independiente, pero completo
+
+El ejemplo se encuentra en el archivo semantica.html
